@@ -1,0 +1,1 @@
+(function() { $(document).ready(function() {/*Sidebar height set */ });}).call(this);
